@@ -7,7 +7,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-class JavaDateAndTime {
+public class JavaDateAndTime {
     public static String findDay(int month, int day, int year) {
         Calendar calendar = Calendar.getInstance();
         calendar.set(Calendar.MONTH,month-1);
@@ -20,7 +20,7 @@ String Day = calendar.getDisplayName(Calendar.DAY_OF_WEEK, Calendar.LONG, Locale
 
 }
 
-public class Solution {
+ class Solution {
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));
