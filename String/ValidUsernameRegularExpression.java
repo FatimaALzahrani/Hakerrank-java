@@ -1,3 +1,4 @@
+package String;
 //https://www.hackerrank.com/challenges/valid-username-checker/problem?isFullScreen=true
 import java.util.Scanner;
 class UsernameValidator {

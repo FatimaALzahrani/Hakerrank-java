@@ -1,3 +1,4 @@
+package String;
 //https://www.hackerrank.com/challenges/java-string-reverse/problem?isFullScreen=true
 import java.io.*;
 import java.util.*;

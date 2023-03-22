@@ -1,3 +1,4 @@
+package String;
 //https://www.hackerrank.com/challenges/java-substring/problem?isFullScreen=true
 
 import java.io.*;

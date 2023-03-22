@@ -1,3 +1,4 @@
+package Advanced;
 //https://www.hackerrank.com/challenges/simple-addition-varargs/problem?isFullScreen=true
 	import java.io.*;
 	import java.lang.reflect.*;

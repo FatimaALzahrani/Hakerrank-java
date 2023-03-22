@@ -1,3 +1,4 @@
+package String;
 import java.util.Scanner;
 public class JavaAnagrams {
     static boolean isAnagram(String a, String b) {
